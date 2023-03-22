@@ -9,4 +9,5 @@ SWIP_Git_Practice
 -   2nd Commit 20230322 09:35
 -   3rd Commit 20230322 09:36
 -   4th Commit 20230322 09:42
--   5th Commit 20230322 09:51 
+-   5th Commit 20230322 09:51
+-   6th Commit 20230322 10:24 - Dummy Check-In 
